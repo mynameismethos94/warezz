@@ -59,6 +59,8 @@ sidebar_label: Games
 - [Mabandonware](https://www.myabandonware.com/) - Older Video games.
 - [IGG-GAMES](https://igg-games.com/) - A popular DDL site that aggregates repacked and GOG games.
 - [GAMESTORRENT](https://pcgamestorrents.com/) - Hosts the same content as IGG-GAMES for users who prefer torrents.
+- [Skidrow Codex & Reloaded](https://skidrowcodexreloaded.com/) - Toreent Skidrow codex & Reloaded mirror website.
+
 
 ### Steam
 
